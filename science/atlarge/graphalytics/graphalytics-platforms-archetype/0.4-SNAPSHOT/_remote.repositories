@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jun 27 18:00:23 UTC 2017
+graphalytics-platforms-archetype-0.4-SNAPSHOT.jar>=
+graphalytics-platforms-archetype-0.4-SNAPSHOT-sources.jar>=
+graphalytics-platforms-archetype-0.4-SNAPSHOT.pom>=

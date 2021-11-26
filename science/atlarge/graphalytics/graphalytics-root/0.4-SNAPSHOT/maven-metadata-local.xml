@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>science.atlarge.graphalytics</groupId>
+  <artifactId>graphalytics-root</artifactId>
+  <version>0.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20170627175938</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.4-SNAPSHOT</value>
+        <updated>20170627175938</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

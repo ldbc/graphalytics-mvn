@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Jun 21 22:19:03 UTC 2017
+giraph-core-granula-1.2.0-hadoop2-bin.tar.gz>=
+giraph-core-granula-1.2.0-hadoop2-tests.jar>=
+giraph-core-granula-1.2.0-hadoop2.jar>=
+giraph-core-granula-1.2.0-hadoop2.pom>=
+giraph-core-granula-1.2.0-hadoop2-sources.jar>=
+giraph-core-granula-1.2.0-hadoop2-jar-with-dependencies.jar>=
+giraph-core-granula-1.2.0-hadoop2-javadoc.jar>=

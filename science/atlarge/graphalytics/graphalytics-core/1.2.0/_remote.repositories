@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 27 16:56:39 CET 2019
+graphalytics-core-1.2.0.pom>=
+graphalytics-core-1.2.0-sources.jar>=
+graphalytics-core-1.2.0-resources.tar.gz>=
+graphalytics-core-1.2.0.jar>=

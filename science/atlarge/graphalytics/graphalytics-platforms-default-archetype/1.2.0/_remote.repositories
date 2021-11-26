@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 27 16:56:42 CET 2019
+graphalytics-platforms-default-archetype-1.2.0-sources.jar>=
+graphalytics-platforms-default-archetype-1.2.0.jar>=
+graphalytics-platforms-default-archetype-1.2.0.pom>=

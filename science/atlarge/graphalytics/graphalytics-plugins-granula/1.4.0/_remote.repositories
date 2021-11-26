@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 24 12:37:30 CET 2020
+graphalytics-plugins-granula-1.4.0.pom>=
+graphalytics-plugins-granula-1.4.0.jar>=
+graphalytics-plugins-granula-1.4.0-sources.jar>=

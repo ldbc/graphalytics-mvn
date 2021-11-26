@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 21 23:34:11 UTC 2017
+spark-core_2.10-granula-1.6.0.jar>=
+spark-core_2.10-granula-1.6.0-javadoc.jar>=
+spark-core_2.10-granula-1.6.0-test-sources.jar>=
+spark-core_2.10-granula-1.6.0.pom>=
+spark-core_2.10-granula-1.6.0-tests.jar>=
+spark-core_2.10-granula-1.6.0-sources.jar>=
