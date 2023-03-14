@@ -3,27 +3,27 @@
   <groupId>science.atlarge.graphalytics</groupId>
   <artifactId>graphalytics-validation</artifactId>
   <versioning>
-    <lastUpdated>20230314162918</lastUpdated>
+    <lastUpdated>20230314165756</lastUpdated>
     <snapshot>
-      <timestamp>20230314.162918</timestamp>
+      <timestamp>20230314.165756</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.7.0-20230314.162918-1</value>
-        <updated>20230314162918</updated>
+        <value>1.7.0-20230314.165756-1</value>
+        <updated>20230314165756</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.7.0-20230314.162918-1</value>
-        <updated>20230314162918</updated>
+        <value>1.7.0-20230314.165756-1</value>
+        <updated>20230314165756</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.7.0-20230314.162918-1</value>
-        <updated>20230314162918</updated>
+        <value>1.7.0-20230314.165756-1</value>
+        <updated>20230314165756</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
