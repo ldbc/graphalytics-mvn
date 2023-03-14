@@ -3,33 +3,33 @@
   <groupId>science.atlarge.graphalytics</groupId>
   <artifactId>graphalytics-core</artifactId>
   <versioning>
-    <lastUpdated>20230314093418</lastUpdated>
+    <lastUpdated>20230314162918</lastUpdated>
     <snapshot>
-      <timestamp>20230314.093418</timestamp>
+      <timestamp>20230314.162918</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.7.0-20230314.093418-1</value>
-        <updated>20230314093418</updated>
+        <value>1.7.0-20230314.162918-1</value>
+        <updated>20230314162918</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.7.0-20230314.093418-1</value>
-        <updated>20230314093418</updated>
+        <value>1.7.0-20230314.162918-1</value>
+        <updated>20230314162918</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.7.0-20230314.093418-1</value>
-        <updated>20230314093418</updated>
+        <value>1.7.0-20230314.162918-1</value>
+        <updated>20230314162918</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>resources</classifier>
         <extension>tar.gz</extension>
-        <value>1.7.0-20230314.093418-1</value>
-        <updated>20230314093418</updated>
+        <value>1.7.0-20230314.162918-1</value>
+        <updated>20230314162918</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
